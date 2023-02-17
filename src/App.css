@@ -1,0 +1,103 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto', sans-serif
+}
+
+a {
+  color: white !important;
+  text-decoration: none !important;
+
+}
+
+.btn-button {
+  border: 1px solid transparent;
+  background-color: red;
+  padding: 0.5rem 1rem;
+  line-height: 78px;
+
+}
+
+.header-nav {
+  background-color: #f8f9f9;
+  line-height: 46px;
+}
+
+.nav-link {
+  color: #0f0f0f !important;
+
+  font-weight: 400 !important;
+  margin-left: 27px !important;
+}
+
+.nav-image {
+  padding-left: 20px;
+}
+
+.nav-link:hover {
+  color: #0f0f0f;
+  border-bottom: 2px solid #272626;
+  font-weight: bold !important;
+}
+
+/* header end */
+
+/* section1 start */
+.section1{
+  padding-top: 55px;
+}
+.section1-content{
+  line-height:55px;
+  color: #545454;
+  font-size: 15px;
+}
+.banner-content {
+  font-size: 40px;
+  color: #03363d;
+  font-weight: 600;
+  margin-top: 55px;
+
+  
+}
+.button-larger{
+
+    border: 1px solid transparent;
+    background-color: red;
+    padding:14px 25px;
+    line-height: 40px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.banner-image{
+  padding-top: 55px;
+}
+
+.card-img-top{
+ max-width: 100%;
+ width: 165px !important;
+ height: 35px;
+}
+.card-text{
+  font-size: 12px;
+  margin-top: 10%;
+}
+.card-details{
+  margin-top:30px !important;
+}
+
+
+/* section 3 start */
+.carousel {
+  padding: 10px 10px 0;
+  border-radius: 4px;
+  width: 375px;
+  margin: auto;
+}
+.carousel__main {
+  border-radius: 4px;
+  height: 110px;
+}
+
+.demo-item {
+  height: 110px;
+}
